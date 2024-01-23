@@ -13,10 +13,18 @@
 - 👩‍💻2023.03 ~ 👩‍💻 I'm in the Master program of Statistics at Korea University
 
 ## Society
-- 🪙 U.FE.A 31th
-- 🖥️ BITAMIN 9th
+- 🪙U.FE.A🪙 31th (2021.01 ~ 2021.12)
+- 🖥️BITAMIN🖥️ 9th (2022.02 ~ 2022.12)
 
 ## Awards
 - [2023 빅콘테스트] 🎖️빅콘테스트 운영위원장상🎖️ 빅데이터 활용분야_지정주제리그_부동산 (2023.08 ~ 2023.11)
 - [2023 KETI 고려대 AI 융합∙응용기술 아이디어 경진대회] 🎖️장려상(4위)🎖️ AI 학습기반 산사태 예측 및 실시간 대응 시스템 아이디어 (2023.10 ~ 2024.01)
 
+### Top Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hj9933&layout=compact)
+
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hj9933&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</div>
