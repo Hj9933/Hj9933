@@ -21,7 +21,7 @@
 - [2023 KETI 고려대 AI 융합∙응용기술 아이디어 경진대회] 🎖️장려상(4위)🎖️ AI 학습기반 산사태 예측 및 실시간 대응 시스템 아이디어 (2023.10 ~ 2024.01)
 
 ### Top Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hj9933&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hj9933)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
