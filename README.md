@@ -9,12 +9,15 @@
 </div><br>
 
 ## Academic Background
-- 👩‍🎓2018.03 ~ 2023.02👩‍🎓 Bachelor of Statistics / Financial Engineering at Korea University 
-- 👩‍💻2023.03 ~ 👩‍💻 I'm in the Master program of Statistics at Korea University
+- 👩‍🎓고려대학교 통계학과 / 금융공학융합전공 학사👩‍🎓 (2018.03 ~ 2023.02)
+- 👩‍💻고려대학교 통계학과 석사👩‍💻 (2023.03 ~ )
+
+## Career
+- 💼Kantar Public💼 사회조사, 디버깅, 리서치 업무 (2022.03 ~ 2022.08)
 
 ## Society
-- 🪙U.FE.A🪙 31th (2021.01 ~ 2021.12)
-- 🖥️BITAMIN🖥️ 9th (2022.02 ~ 2022.12)
+- 🪙U.FE.A 31th🪙 금융공학학회/ 주식, 파생상품, 채권 공부 및 Pricing 공부 (2021.01 ~ 2021.12)
+- 🖥️BITAMIN 9th🖥️  머신러닝, 딥러닝 이론 공부 및 프로젝트 (2022.02 ~ 2022.12)
 
 ## Awards
 - [2023 빅콘테스트] 🎖️빅콘테스트 운영위원장상🎖️ 빅데이터 활용분야_지정주제리그_부동산 (2023.08 ~ 2023.11)
